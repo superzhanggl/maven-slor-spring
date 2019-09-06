@@ -1,0 +1,6 @@
+query\BaseQuery.class
+test\Test.class
+query\GoodsQuery.class
+util\Page.class
+entity\TGoods.class
+filter\CharacterEncodingFilter.class
